@@ -1,0 +1,18 @@
+{
+  "name": "zod-api",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "endpts dev"
+  },
+  "devDependencies": {
+    "@endpts/devtools": "^1.0.2",
+    "@endpts/types": "^1.0.0",
+    "@types/node": "^20.2.3",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "zod": "^3.21.4"
+  }
+}
